@@ -1,1 +1,1 @@
-// test of Git
+// test of Git2
