@@ -2,3 +2,7 @@ public class Person {
    private String name;
    private double height;
 }
+
+public class Dog {
+   private int iteration;
+}
